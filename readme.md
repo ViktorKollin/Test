@@ -1,0 +1,1 @@
+Detta är min readme map för ett special projekt 
